@@ -3,7 +3,6 @@ import torch.nn as nn
 
 from model.encoder import Encoder
 from model.decoder import Decoder
-from test_decoder import tgt_sub_mask
 from utils.mask import generate_padding_mask, generate_subsequent_mask\
 
 class Transformer(nn.Module):
