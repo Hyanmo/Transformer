@@ -6,7 +6,7 @@
     - pyarrow==12.0.1
     - sentencepiece==0.1.99
       
-  -2026.02.23
+  - 2026.02.23
     - 训练结果：10epoch + 10000样本数据
     - Epoch 10 | Loss: 6.5000
     - Input : Thank you very much.
