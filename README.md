@@ -4,3 +4,4 @@
   - 数据下载依赖：
     - datasets==2.14.5
     - pyarrow==12.0.1
+    - sentencepiece==0.1.99
